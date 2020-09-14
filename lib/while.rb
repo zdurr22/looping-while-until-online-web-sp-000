@@ -8,5 +8,4 @@ def using_while
     if levitation_force > 10
       break
     end
-  end
 end
