@@ -7,6 +7,6 @@ def using_while
     puts "Wingardium Leviosa"
     if levitation_force > 10
       break
-    end
+    
   end
 end
